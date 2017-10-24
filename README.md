@@ -1,18 +1,15 @@
 # Airport-Gates
 
-
-
-
-
-
-
 #include <iostream> 
+
 using namespace std;
 
 int main()
 
 {
+
 	int arr[10], dep[10];
+	
 	int num, i, g;
 
 
@@ -62,7 +59,8 @@ int main()
 			
 	
 
-return 0; 		
+return 0; 	
+
 }
 
 
